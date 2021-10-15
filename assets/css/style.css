@@ -1,0 +1,47 @@
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size:21px;
+    font-weight: 500;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.direccion {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+em{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.color-verde{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.texto-footer{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
